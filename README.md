@@ -1,8 +1,7 @@
-## Hello, my name is Gustavo A Abilio :brazil:	
+## Hello, my name is Gustavo Andrade Abilio :brazil:	
 I'm a worker in programming languages, such as:
 
-- Front-end, CSS, JavaScript, HTML, React Native and usage of Flexbox;
-- Ruby and Ruby on Rails;
+- Front-end, CSS, JavaScript, HTML, Ruby and Python;
 - Translator to ENG to PT-BR;
 - Many others I may share around my work.
 
